@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+
+.navbar-search .search-query{
+	-webkit-border-radius: 30px;
+	}
+
+.navbar .brand {
+	color: #FA1B11;
+    font-family:Dodger;
+}
+
+.copyright{
+	margin:auto auto;
+	}
